@@ -6,6 +6,7 @@
 */.idea/*
 chat/src/main/resources/application-secret.properties
 */gradle
+*/.gitignore
 
 ### Java ###
 # Compiled class file
