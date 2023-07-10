@@ -5,7 +5,6 @@
 .idea/*
 */.idea/*
 chat/src/main/resources/application-secret.properties
-kafka
 */gradle
 
 ### Java ###
